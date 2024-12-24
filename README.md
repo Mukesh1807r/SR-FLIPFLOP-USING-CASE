@@ -80,6 +80,6 @@ endmodule
 
 ![Screenshot 2024-12-13 193332](https://github.com/user-attachments/assets/95276a5f-5efe-43bd-8a87-55ffe4ecffee)
 
-**RESULTS**
+**RESULT**
 
 SR flipflop using verilog and validating their functionality using their functional tables is verified
